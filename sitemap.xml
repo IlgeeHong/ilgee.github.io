@@ -10,21 +10,29 @@
   <url>
     <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-11-04T16:32:32-05:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-11-04T17:47:42-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2022-11-04T16:32:32-05:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2022-11-04T17:47:42-05:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/a-randomized-inexact-newton-method-for-equality-constrained-optimization/</loc><lastmod>2022-11-04T17:47:42-05:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-11-04T17:47:42-05:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-11-04T17:47:42-05:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2022-11-04T17:47:42-05:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/</loc><lastmod>2022-11-04T17:47:42-05:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-11-04T17:47:42-05:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/a-simplified-framework-for-contrastive-learning-for-node-representations/</loc><lastmod>2022-11-04T17:44:45-05:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-11-04T17:44:45-05:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-11-04T17:44:45-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/adaptive-inexact-sequential-quadratic-programming-via-iterative-randomized-sketching/</loc><lastmod>2022-11-04T16:32:32-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-11-04T16:32:32-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-11-04T16:32:32-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2022-11-04T16:32:32-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2022-11-04T16:32:32-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-11-04T16:32:32-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -46,8 +54,4 @@
   <url>
     <loc>https://example.com/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://example.com/tags/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
