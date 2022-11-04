@@ -5,12 +5,20 @@
     <link>https://example.com/publication-type/1/</link>
       <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Nov 2022 16:32:32 -0500</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://example.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Adaptive Inexact Sequential Quadratic Programming via Iterative Randomized Sketching</title>
+      <link>https://example.com/publication/adaptive-inexact-sequential-quadratic-programming-via-iterative-randomized-sketching/</link>
+      <pubDate>Fri, 04 Nov 2022 16:32:32 -0500</pubDate>
+      <guid>https://example.com/publication/adaptive-inexact-sequential-quadratic-programming-via-iterative-randomized-sketching/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>

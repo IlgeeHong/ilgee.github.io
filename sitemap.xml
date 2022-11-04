@@ -12,7 +12,7 @@
   <url>
     <loc></loc><lastmod>2022-11-04T16:32:32-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/0/</loc><lastmod>2022-11-04T16:32:32-05:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2022-11-04T16:32:32-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/adaptive-inexact-sequential-quadratic-programming-via-iterative-randomized-sketching/</loc><lastmod>2022-11-04T16:32:32-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -47,8 +47,6 @@
     <loc>https://example.com/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tags/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
