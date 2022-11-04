@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Ilgee Hong</title>
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://example.com/post/</link>
+    </image>
+    
+    <item>
+      <title>Randomized SQP</title>
+      <link>https://example.com/post/randomized-sqp/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/randomized-sqp/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Why Sequential Quadratic Programming (SQP)?&lt;/strong&gt;&lt;br&gt;
+A big advantage of SQP is that it is not a feasible-point method (e.g. interior-point method) which only allows a feasible sequence of iterates. Finding a feasible point with respect to nonlinear constraints sometimes as hard as solving original problem. On the other hand, SQP method computes the search direction without considering the penalties of violating constraints, so that the penalty parameter only affects the size of step, but not the direction. This resolves the ill-conditioning issue and preserves the structure of the objective.&lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Why Iterative Random Sketching (IRS)?&lt;/strong&gt;&lt;br&gt;
+One of subroutine of SQP is solving linear system of equation. However, in large scale optimization setting, the floating point complexity to solve the linear system of equation is huge. Therefore, by using IRS, we can reduce the size of the linear system of equation, hence, solve the large scale nonlinear optimization problem with exceptionally low computational complexities.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
