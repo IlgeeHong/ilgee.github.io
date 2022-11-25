@@ -5,7 +5,7 @@
     <link>https://example.com/publication_types/</link>
       <atom:link href="https://example.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Nov 2022 17:47:42 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Nov 2022 17:44:45 -0500</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu195aa6c70fcfa1dcb81f57ea0d3dbe0d_16397_300x300_fit_lanczos_3.png</url>
       <title>Publication_types</title>
